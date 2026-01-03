@@ -1,0 +1,135 @@
+.dancing-script-uniquifier {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+    font-family: "Dancing Script", cursive;
+}
+
+nav {
+    min-width: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(253, 203, 255);
+}
+
+nav img {
+    padding: 50px;
+    padding-bottom: 0;
+    padding-top: 0;
+    float: left;
+    left: 50%;
+    width: 50px;
+    height: auto;
+}
+
+#man {
+    height: 150px;
+    width: 150px;
+}
+
+nav h1{
+    left: 200px;
+    padding: 10px
+}
+
+#discover {
+    font-size: 25px;
+    text-align: center;
+}
+
+#dh {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    text-align: justify;
+    background-color: rgb(255, 223, 248);
+}
+
+#dh img {
+    padding: 50px;
+    padding-bottom: 0;
+    padding-top: 0;
+    float: left;
+    width: 200px;
+    height: auto;
+}
+
+#rei {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-left: 450px;
+    padding-bottom: 20px;
+    text-align: justify;
+    background-color: rgb(255, 223, 248);
+}
+
+#rei img {
+    padding: 50px;
+    padding-bottom: 0;
+    padding-top: 0;
+    float: right;
+    width: 400px;
+    height: auto;
+}
+
+#shi {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-left: 250px;
+    padding-bottom: 20px;
+    text-align: justify;
+    background-color: rgb(255, 223, 248);
+}
+
+#shi img {
+    padding: 50px;
+    padding-bottom: 0;
+    padding-top: 0;
+    float: left;
+    width: 400px;
+    height: auto;
+}
+
+#aroma {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    text-align: justify;
+    background-color: rgb(255, 223, 248);
+}
+
+#aroma img {
+    padding: 50px;
+    padding-bottom: 0;
+    padding-top: 30px;
+    float: right;
+    width: 400px;
+    height: auto;
+}
+
+footer {
+    background-color: rgb(253, 203, 255);
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px ;
+}
